@@ -1,2 +1,2 @@
 # Capital-To-Small-Alphabet-Cplusplus
-This C++ program is developed using if else statement to convert upercase to lowercase.
+#This code is developed by M.Nadir -This is an open source code for learning purpose. -This C++ program is developed using if else statement to convert upercase to lowercase. -For further help or query regarding any sort of problem can contact me on contact given below. Contact info: Email: mohammadnadir189@gmail.com LinkedIn: www.linkedin.com/in/mohnadir Facebook: www.facebook.com/mnadirofficial Instagram: www.instagram.com/nadiir._
